@@ -1,0 +1,10 @@
+# 출력할 항목 키를 한 줄에 하나씩 적으세요.
+# 비워 두면 전체 항목이 출력됩니다.
+
+operating_system
+operating_system_version
+cpu_type
+cpu_core_count
+memory_size_gb
+cpu_usage_percent
+memory_usage_percent
